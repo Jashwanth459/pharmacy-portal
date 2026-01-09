@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/pharmacy-portal/static/css/main.02f394c3.css",
-    "main.js": "/pharmacy-portal/static/js/main.e04d597c.js",
+    "main.js": "/pharmacy-portal/static/js/main.e9c7c396.js",
     "index.html": "/pharmacy-portal/index.html",
     "main.02f394c3.css.map": "/pharmacy-portal/static/css/main.02f394c3.css.map",
-    "main.e04d597c.js.map": "/pharmacy-portal/static/js/main.e04d597c.js.map"
+    "main.e9c7c396.js.map": "/pharmacy-portal/static/js/main.e9c7c396.js.map"
   },
   "entrypoints": [
     "static/css/main.02f394c3.css",
-    "static/js/main.e04d597c.js"
+    "static/js/main.e9c7c396.js"
   ]
 }
